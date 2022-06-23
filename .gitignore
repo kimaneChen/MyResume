@@ -5,6 +5,8 @@ node_modules
 # Compiled Document
 build
 
+# App Specific
+dist
 
 # dotenv environment variable file
 .env
