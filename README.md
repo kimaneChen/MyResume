@@ -1,8 +1,5 @@
 # MyResume
   This project is my personal resume project and React Demo.
-# Getting Started with Create React App
-
-This project was build with Webpack.
 
 ## Available Scripts
 
