@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/kimaneChen/MyResume/issues"
   },
-  "homepage": "https://github.com/kimaneChen/MyResume#readme"
+  "homepage": "https://github.com/kimaneChen/MyResume#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.73.0"
+  }
 }
